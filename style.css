@@ -10,7 +10,8 @@ body {
   height: 500px;
   margin: 60px auto;
   background-color: #f5f5f5;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
   padding: 20px;
   display: flex;
   flex-direction: column;
